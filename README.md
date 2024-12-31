@@ -1,1 +1,1 @@
-Hello Guys, im testing this read me file
+Hello guys, im testing on how to make a read me file to then push it to github respository
